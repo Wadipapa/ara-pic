@@ -16,7 +16,7 @@ Classes: Each category contains ten unique classes, capturing a wide variety of 
 
 
 Ara-Pic dataset contains images related to the Arabic culture in 6 main categories: Food, Architecture, Natural landscapes, Arabic family and Fashion in the follwing structure:
-
+```bash
 ├── Food/
 │   ├── Class1/
 │   │   ├── image1.jpg
@@ -49,3 +49,4 @@ Ara-Pic dataset contains images related to the Arabic culture in 6 main categori
 │   ├── Class1/
 │   ├── Class2/
 │   ├── ...
+```bash
