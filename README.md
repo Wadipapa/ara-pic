@@ -1,4 +1,5 @@
-# [Ar-Pic dataset access link](https://drive.google.com/drive/folders/14wpA0P8yosUL61Rv89SzmHBdfF1zKAB9?usp=drive_link)  
+# Ara-Pic Dataset
+## [Access dataset here](https://drive.google.com/drive/folders/14wpA0P8yosUL61Rv89SzmHBdfF1zKAB9?usp=drive_link)  
 Overview:
 The Ara-Pic dataset is a collection of images designed to support research and development in various computer vision and machine learning tasks. It contains a diverse range of images spanning six distinct categories, with each category further divided into ten classes. The dataset is a valuable resource for tasks such as image classification, object recognition, and more.
 
